@@ -1,4 +1,4 @@
-# Role: Technical Product Manager
+# Role: Technical Scrum Master
 
 ## Role
 
